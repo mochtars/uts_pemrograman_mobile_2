@@ -160,3 +160,7 @@ Fitur tambahan:
 
 ### Assets
 - Logo aplikasi: `assets/images/haan!_.jpeg`
+
+
+
+<a href="https://github.com/mochtars/uts_pemrograman_mobile_2/blob/main/UTS_Pemmob2_BeniMochtarS_TIFK23B.pdf">File laporan pdf</a>
