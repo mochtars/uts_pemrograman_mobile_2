@@ -3,7 +3,7 @@
 
 ## Pendahuluan
 
-Aplikasi Pencari Petshop Bandung adalah sebuah aplikasi mobile berbasis Flutter yang dirancang untuk memudahkan pengguna dalam menemukan petshop terdekat di kota Bandung dengan fitur-fitur lengkap. Aplikasi ini mengintegrasikan teknologi Flutter Maps untuk menampilkan lokasi petshop secara real-time, dilengkapi dengan sistem otentikasi yang aman melalui halaman login dan register, serta navigasi intuitif menggunakan sidebar, bottom navigation, atau navigation bar untuk memaksimalkan pengalaman pengguna. Dengan menampilkan informasi petshop dalam format list atau grid view, aplikasi ini memberikan solusi praktis bagi pecinta hewan peliharaan untuk mengakses data petshop lengkap dengan detail lokasi, kontak, dan layanan yang tersedia di setiap tempat.
+Aplikasi Pencari Petshop Bandung adalah sebuah aplikasi mobile berbasis Flutter yang dirancang untuk memudahkan pengguna dalam menemukan petshop terdekat di kota Bandung dengan fitur-fitur lengkap. Aplikasi ini mengintegrasikan teknologi Flutter Maps untuk menampilkan lokasi petshop secara real-time, dilengkapi dengan sistem otentikasi yang aman melalui halaman login dan register, serta navigasi intuitif menggunakan sidebar, bottom navigation, atau navigation bar untuk memaksimalkan pengalaman pengguna. Dengan menampilkan informasi petshop dalam format list atau grid view, aplikasi ini memberikan solusi praktis bagi pecinta hewan peliharaan untuk mengakses data petshop lengkap dengan detail lokasi, dan layanan yang tersedia di setiap tempat.
 
 ## Komponen Aplikasi
 
