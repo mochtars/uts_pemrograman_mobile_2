@@ -302,7 +302,7 @@ class _DashboardTabState extends State<DashboardTab> {
                 child: _buildStatCard(
                   icon: Icons.pets,
                   title: 'Kategori Hewan',
-                  value: '4',
+                  value: '5',
                   color: Colors.teal,
                 ),
               ),
